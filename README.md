@@ -1,3 +1,6 @@
+
+This project is created from [this video](https://www.youtube.com/watch?v=fxY1q4SCB64) of Traversy Media
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
